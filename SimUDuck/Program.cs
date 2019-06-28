@@ -10,6 +10,17 @@ namespace SimUDuck
     {
         static void Main(string[] args)
         {
+            Duck mallard = new MallardDuck();
+            Duck rubber = new RubberDuck();
+            mallard.display();
+            mallard.quack();
+            mallard.swim();
+            mallard.fly();
+
+            rubber.display();
+            rubber.quack();
+            rubber.swim();
+            rubber.fly();
         }
     }
 }
