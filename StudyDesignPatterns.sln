@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimUDuck", "SimUDuck\SimUDuck.csproj", "{AD1F1899-6133-4CEB-8AC0-D25A69C9E3EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_Pattern", "Decorator_Pattern\Decorator_Pattern.csproj", "{44D81555-F7E6-4B67-8F8E-DB6771BC630A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AD1F1899-6133-4CEB-8AC0-D25A69C9E3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1F1899-6133-4CEB-8AC0-D25A69C9E3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1F1899-6133-4CEB-8AC0-D25A69C9E3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D81555-F7E6-4B67-8F8E-DB6771BC630A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D81555-F7E6-4B67-8F8E-DB6771BC630A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D81555-F7E6-4B67-8F8E-DB6771BC630A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D81555-F7E6-4B67-8F8E-DB6771BC630A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
